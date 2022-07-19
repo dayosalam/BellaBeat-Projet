@@ -1,4 +1,4 @@
-#BellaBeat Project
+# BellaBeat Project
 Bellabeat data analysis case study! In this case study, I performed many real-world tasks of a junior data
 analyst.I worked on a project for Bellabeat, a high-tech manufacturer of health-focused products for women, and
 met different characters and team members. In order to answer the key business questions,I follow the steps of the
