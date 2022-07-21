@@ -9,7 +9,7 @@ I produced a report with the following deliverables:
 2. A description of all data sources used
 3. Documentation of any cleaning or manipulation of data
 4. A summary of my analysis
-5. Supporting visualizations and key findings
+5. [Supporting visualizations](https://public.tableau.com/app/profile/abdulwaheed.abdulsalam/viz/BellaBeat_16575443034920/Dashboard1) and key findings
 6. My top high-level content recommendations based on my analysis
 ## Play it Smart with BellaBeat Ivy
 I produced a presentation based on my analysis 
